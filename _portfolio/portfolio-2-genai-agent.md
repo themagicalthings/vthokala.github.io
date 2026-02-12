@@ -2,7 +2,7 @@
 title: "Enterprise GenAI Research Assistant"
 excerpt: "Built a RAG-based autonomous agent to answer internal technical queries using LangChain, OpenAI, and Pinecone."
 header:
-  teaser: /images/genai-agent-thumb.png
+  teaser: genai-agent-thumb.png
 collection: portfolio
 ---
 

@@ -2,7 +2,7 @@
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1"
 header:
-  teaser: /images/500x300.png
+  teaser: 500x300.png
 collection: portfolio
 ---
 
