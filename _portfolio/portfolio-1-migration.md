@@ -1,6 +1,6 @@
 ---
 title: "Enterprise Data Platform Modernization (SQL Server → AWS Lakehouse + Redshift + Domo)"
-excerpt: "Designed and executed a multi-track enterprise migration program modernizing SQL Server + SSIS workloads into an AWS-native Lakehouse (S3 + Athena + Glue + Delta/Iceberg) and Analytics stack (Redshift + Domo), enabling scalable reporting, historical retention, and cost-efficient cloud governance.<br/><img src='/images/databricks-migration-thumb.png'>"
+excerpt: "Designed and executed a multi-track enterprise migration program modernizing SQL Server + SSIS workloads into an AWS-native Lakehouse (S3 + Athena + Glue + Delta/Iceberg) and Analytics stack (Redshift + Domo), enabling scalable reporting, historical retention, and cost-efficient cloud governance.<br/><img src='/vthokala.github.io/images/databricks-migration-thumb.png' class='align-left' width='300px'>"
 collection: portfolio
 ---
 
