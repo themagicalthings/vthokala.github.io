@@ -6,7 +6,7 @@ author_profile: true
 
 My current focus is on mastering the Generative AI engineering stack while deepening my expertise in cloud data platforms.
 
-## 🗺️ Learning Roadmap
+## 🗺️ Roadmap to GenAI Engineer Agentic AI Application development
 
 ### 1. GenAI Fundamentals & Prompt Engineering
 - [x] Understanding LLM architectures (Transformers, Attention mechanisms)

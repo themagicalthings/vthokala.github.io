@@ -1,15 +1,12 @@
 {
-    "name": "ACADEMIC PAGES",
+    "name": "my-profile",
     "dockerComposeFile": "../docker-compose.yaml",
     "service": "jekyll-site",
-    "remoteEnv": {
-        "VSCODE_SERVER_DIR": "/home/vscode/.vscode-server"
-    },
-    "runArgs": [
-        "--user",
-        "1000:1000"
-    ],
     "workspaceFolder": "/usr/src/app",
     "remoteUser": "vscode",
-    "forwardPorts": [4000] // Add port forwarding
+    "containerUser": "vscode",
+    "overrideCommand": false,
+    "forwardPorts": [
+        4000
+    ] // Add port forwarding
 }
