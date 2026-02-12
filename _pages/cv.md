@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I am a results-driven **Cloud Data Engineer** transitioning into **GenAI Engineering**. Proven track record in designing scalable data platforms, optimizing ETL pipelines, and implementing data governance frameworks.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+You can download my full resume here: <a href="#" class="btn btn--primary">Download PDF</a> *[Upload your PDF to /files/resume.pdf and update link]*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
+*   **Senior Data Engineer** - *Current Employer* (2020 - Present)
+    *   Led migration of 50TB+ data warehouse to Databricks/Delta Lake.
+    *   Optimized Spark jobs reducing computing costs by 40%.
+*   **Data Engineer** - *Previous Employer* (2018 - 2020)
+    *   Built real-time streaming pipelines using Kafka and Spark Streaming.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills
+*   **Cloud**: AWS (S3, Glue, Lambda, EMR), Azure (ADLS, ADF, Databricks)
+*   **Big Data**: Apache Spark, Hadoop, Delta Lake, Snowflake
+*   **GenAI**: RAG, LangChain, Vector DBs, Prompt Engineering
+*   **Languages**: Python, SQL, Scala, Bash
+*   **DevOps**: Terraform, Docker, Jenkins, Git
