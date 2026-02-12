@@ -13,21 +13,21 @@ title                    : "Vamsi Thokala"
 title_separator          : "-"
 name                     : &name "Vamsi Thokala"
 description              : &description "Cloud Data Engineer & GenAI Practitioner"
-url                      : "https://vthokala.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://themagicalthings.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vthokala/vthokala.github.io"
+baseurl                  : "/vthokala.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "themagicalthings/vthokala.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png" # You will need to add this image later
+  avatar           : "profile.png" # You will need to add this image later
   name             : "Vamsi Thokala"
   pronouns         : # example: "she/her"  
   bio              : "Cloud-focused Senior Data Engineer (Databricks/Spark, AWS, Azure). Moving into GenAI engineering."
-  location         : "USA" # Update with actual location if known, or leave generic
+  location         : "Tempe, AZ, USA" # Update with actual location if known, or leave generic
   employer         : # "Red Brick University"
   uri              : # URL
   email            : # "none@example.org" 

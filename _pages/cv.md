@@ -11,7 +11,7 @@ redirect_from:
 
 I am a results-driven **Cloud Data Engineer** transitioning into **GenAI Engineering**. Proven track record in designing scalable data platforms, optimizing ETL pipelines, and implementing data governance frameworks.
 
-You can download my full resume here: <a href="/files/__thokala_vamsi_Data_Engineer_02102026.pdf" class="btn btn--primary">Download PDF</a> *[Upload your PDF to /files/resume.pdf and update link]*
+You can download my full resume here: <a href="{{ base_path }}/files/__thokala_vamsi_Data_Engineer_02102026.pdf" class="btn btn--primary">Download PDF</a> *[Upload your PDF to /files/resume.pdf and update link]*
 
 ## Experience
 *   **Senior Data Engineer** - *Current Employer* (2020 - Present)
