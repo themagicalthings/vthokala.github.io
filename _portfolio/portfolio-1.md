@@ -1,4 +1,3 @@
-```md
 ---
 title: "RAG System -> AI Knowledge Base from Recordings"
 excerpt: "Built a prod-grade RAG system that converts meeting recordings into a searchable, citation-backed knowledge base with summaries, action items, and conversational Q&A."
@@ -293,4 +292,4 @@ This project is a complete implementation of a modern AI system:
 ✅ Evaluation and monitoring for real-world reliability  
 
 It showcases my ability to build **AI-driven knowledge systems** from scratch using modern tooling and production engineering practices.
-```
+
