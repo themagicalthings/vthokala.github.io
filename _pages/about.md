@@ -10,6 +10,7 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 2em;">
   <h1 style="font-size: 2.5em; font-weight: bold;">Cloud Data Engineer</h1>
   <p style="font-size: 1.2em; color: #555;">Databricks + AWS/Azure | Data Platforms | GenAI (RAG/Agents)</p>
+  <a href="https://www.linkedin.com/in/magicalthings/details/recommendations/?detailScreenTabIndex=0" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">View References on LinkedIn <i class="fab fa-linkedin"></i></a>
 </div>
 
 Hi, I'm Vamsi. I am a **Cloud-focused Senior Data Engineer** with deep expertise in Databricks/Spark, AWS, and Azure. I specialize in building scalable data platforms, handling complex migrations, and ensuring data governance and quality through automation and CI/CD.
