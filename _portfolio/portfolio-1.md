@@ -2,7 +2,7 @@
 title: "RAG System -> AI Knowledge Base from Recordings"
 excerpt: "Built a prod-grade RAG system that converts meeting recordings into a searchable, citation-backed knowledge base with summaries, action items, and conversational Q&A."
 header:
-  teaser: images/rag-system.png
+  teaser: rag-system.png
 collection: portfolio
 ---
 
