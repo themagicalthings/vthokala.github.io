@@ -423,16 +423,16 @@ Handles:
 - **ELK Stack**
 
 ---
-📊 KPIs & Business Outcomes
+# 📊 KPIs & Business Outcomes
 Expected Business Results
 
-📉 Reduce reporting effort by 50%
-🎯 Improve forecast accuracy by 20–30%
-⏱ Reduce deal cycle time by 15%
-📈 Increase win-rate by 10%
-🔥 Improve marketing-to-sales attribution confidence by 40%
+- 📉 Reduce reporting effort by 50%
+- 🎯 Improve forecast accuracy by 20–30%
+- ⏱ Reduce deal cycle time by 15%
+- 📈 Increase win-rate by 10%
+- 🔥 Improve marketing-to-sales attribution confidence by 40%
 
-🚀 Future Enhancements
+# 🚀 Future Enhancements
 Planned Enhancements
 
 - Fine-tuned domain model for deal stage predictions
