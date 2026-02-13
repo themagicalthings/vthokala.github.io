@@ -1,6 +1,6 @@
 ---
 title: "Revenue Command Center"
-excerpt: "**GenAI-powered Revenue Intelligence & Decision Copilot for Sales + Marketing Leadership**"
+excerpt: "GenAI-powered Revenue Intelligence & Decision Copilot for Sales + Marketing Leadership"
 header:
   teaser: cmd-gen-ai.png
 collection: portfolio
