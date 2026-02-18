@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div style="text-align: center; margin-bottom: 2em;">
-  <a href="/files/__THOKALA_Data_Consultant.docx" class="btn btn--primary btn--large"><i class="fas fa-file-download"></i> Download Resume (DOCX)</a>
+  <a href="{{ base_path }}/files/THOKALA_Data_Consultant.docx" class="btn btn--primary btn--large"><i class="fas fa-file-download"></i> Download Resume (DOCX)</a>
 </div>
 
 ## Summary
