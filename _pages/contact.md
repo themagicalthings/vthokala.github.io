@@ -13,7 +13,7 @@ You can reach me at: **thevamsithokala@outlook.com**
 
 ## 🌐 Social Profiles
 *   **LinkedIn**: [linkedin.com/in/vamsi-thokala-8255052a2](https://www.linkedin.com/in/vamsi-thokala-8255052a2/)
-*   **GitHub**: [github.com/vthokala](https://github.com/vthokala)
+*   **GitHub**: [github.com/themagicalthings](https://github.com/themagicalthings)
 
-## 📍 Location [U.S.A] [U.K] [India]
- Available for remote or hybrid roles.
+## 📍 Location United States
+  Available for remote or hybrid roles, including Corp-Corp roles.
