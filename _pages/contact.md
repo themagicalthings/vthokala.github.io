@@ -6,7 +6,7 @@ redirect_from:
   - /contact.html
 ---
 
-I'd love to setup a quick intro call to see how we can align and potentially grow together. Looking forward to connect!
+I'd love to setup a quick intro call to see how we can align and potentially grow. Looking forward to connect!
 
 ## 📧 Email
 You can reach me at: **thevamsithokala@outlook.com**
