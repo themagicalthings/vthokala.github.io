@@ -7,15 +7,15 @@ author_profile: true
 My current focus is on mastering the Generative AI engineering stack while deepening my expertise in cloud data platforms.
 
 ## 🗺️ AI Specialization with AgentOps.
-![Phase 6: Monitoring and Caching](images/phase6_monitoring_and_caching.png)
+![Phase 6: Monitoring and Caching](/images/phase6_monitoring_and_caching.png)
 
 ## Project Outcomes
-- [ ] Build a production-grade agentic RAG pipeline that retrieves, grades, and re-queries until it returns a grounded answer.
-- [ ] Wire arXiv, Jina, OpenSearch, and Neon PostgreSQL with daily Airflow DAGs that survive failures and retry automatically.
-- [ ] Type-safe FastAPI backend with streaming, caching, and config-driven runs across OpenAI and AWS Bedrock providers.
-- [ ] Combine BM25 keyword and semantic vector search with RRF fusion so retrieval quality stays high at any scale.
-- [ ] Cut repeat query cost to near-zero by layering an exact-match Redis cache before every LLM call.
-- [ ] Trace every request end-to-end with Langfuse and Logfire — latency, token cost, and retrieval quality visible before production deploy.
+- Build a production-grade agentic RAG pipeline that retrieves, grades, and re-queries until it returns a grounded answer.
+- Wire arXiv, Jina, OpenSearch, and Neon PostgreSQL with daily Airflow DAGs that survive failures and retry automatically.
+- Type-safe FastAPI backend with streaming, caching, and config-driven runs across OpenAI and AWS Bedrock providers.
+- Combine BM25 keyword and semantic vector search with RRF fusion so retrieval quality stays high at any scale.
+- Cut repeat query cost to near-zero by layering an exact-match Redis cache before every LLM call.
+- Trace every request end-to-end with Langfuse and Logfire — latency, token cost, and retrieval quality visible before production deploy.
 
 ## Project Description
 
