@@ -7,7 +7,7 @@ author_profile: true
 My current focus is on mastering the Generative AI engineering stack while deepening my expertise in cloud data platforms.
 
 ## 🗺️ AI Specialization with AgentOps.
-![Phase 6: Monitoring and Caching](/images/phase6_monitoring_and_caching.png)
+![Phase 6: Monitoring and Caching]({{ '/images/phase6_monitoring_and_caching.png' | relative_url }})
 
 ## Project Outcomes
 - Build a production-grade agentic RAG pipeline that retrieves, grades, and re-queries until it returns a grounded answer.
