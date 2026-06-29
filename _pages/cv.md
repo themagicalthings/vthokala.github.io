@@ -17,6 +17,50 @@ redirect_from:
 
 **Data & AI Engineer** with 9 years of experience building large-scale data pipelines, real-time streaming systems, and AI-powered data products. Skilled across traditional and modern data platforms, from ingestion and transformation to cloud warehouses, lakehouse architectures, and production-ready GenAI features.
 
+---
+
+## PROFESSIONAL EXPERIENCE
+**Rewards Network | Data Migration Consultant**   _Jan 2026 - Jun 2026_ (Contract)
+- Operationalized complex data solutions on AWS Redshift, dbt, Domo, and SQL Server for a Domo-to-Redshift modernization covering 150+ datasets, preserving reporting parity with zero disruption for business intelligence/insights users.
+- Designed data movement and transformation code with Redshift distribution/sort keys, dbt models, and data cleansing rules, recommending data cleansing/quality solutions that reduced manual reconciliation effort by 40%.
+- Analyzed complex sources across Domo cards, SQL Server marts, and PDP security rules to determine value and use, then recommended which datasets to retain, refactor, certify, or retire for cleaner analytical processes.
+- Coordinated with business partners, analysts, and data owners through migration trackers, defect logs, and release notes, correcting incidents in small batches and documenting tradeoffs before production cutover.
+
+**Raining Virtue Inc | BI Consultant**  _Sep 2025 - Dec 2025_ (Contract)
+- Assessed Oracle EDW, Databricks Lakehouse, and Power BI reporting assets across 200+ datasets, mapping metadata completeness, lineage coverage, query redundancy, and data quality gaps for analytics landscape transformation.
+- Built BI assessment scorecards and end-user documentation that translated stories found in data into prioritized remediation steps, helping cross functional teams plan domain expertise, reliable information delivery, and adjacent-system cleanup.
+
+
+**First Fidelity Bank | Senior Data Analytics Engineer** | _Feb 2024 - Jul 2025_(Full Time)
+- Built Databricks Delta Lake pipelines with PySpark, Spark SQL, dbt, and Azure Data Factory to process 10M+ financial transactions, improving downstream analytical availability while supporting AI/ML feature preparation and BI insights.
+- Migrated SQL Server and SSIS workloads into Databricks with tested data movement, transformation code, and reusable ETL patterns, cutting manual development and QA effort by 40% and maintaining 99.9% scheduled pipeline uptime.
+- Designed complex data solutions across bronze, silver, and gold layers with Unity Catalog, data governance, data security, and data quality controls, giving Finance and Risk teams certified datasets with clear ownership and lineage.
+- Guided team members through code reviews, incident analysis, Terraform-aligned deployment practices, and tracked team efforts, creating a safe environment for others to learn and grow as engineers while releasing complete solutions in small batches.
+
+**Chesapeake Energy | Data Engineer** | _Sep 2023 - Dec 2023_
+- Built GCP data pipelines with BigQuery, Cloud Composer, Cloud Storage, Pub/Sub, Dataflow, and Cloud Functions to process 15M+ operational records for near real-time telemetry and business intelligence dashboards.
+- Tested data components, transformation code, and complex source mappings from field systems, correcting defects in batch and streaming jobs before production reporting windows.
+- Tuned BigQuery models and Cloud Composer DAGs for predictable delivery, balancing latency, compute cost, and data quality so analytics teams could explore and utilize trusted operational data.
+- Documented system analysis findings, incident resolution steps, and adjacent-system dependencies for end users and technical teams, improving written communication and handoff quality.
+
+**University of Oklahoma | Graduate Assistant, Data Engineering** | _Aug 2022 - Aug 2023_
+- Developed Python, SQL, and PySpark workflows for academic data engineering projects, applying STEM-based analysis to clean, transform, and validate structured datasets used in teaching and research.
+- Built reproducible ETL labs and dashboards covering data pipelines, data quality, cloud platforms, and modern software engineering practices, helping 100+ students understand analytical processes.
+- Supported faculty and students with debugging, assessment, and resolution of complex data/system issues, strengthening verbal communication, documentation, and end-user education.
+
+**System Info Solutions | Data Engineer** _Aug 2020 - Mar 2022_
+- Built Spark, Hive, Sqoop, and Kafka pipelines on Hadoop/HDFS to ingest large-scale datasets from relational databases into analytical stores, improving batch processing reliability for reporting teams.
+- Created data cleansing and quality validation routines in PySpark and SQL, reducing recurring source-to-target defects by 35% across daily ETL jobs.
+- Optimized Spark jobs through partitioning, caching, broadcast joins, and resource utilization tuning, lowering runtime for high-volume workloads by 45%.
+- Partnered with technical teams and business partners on source analysis, release planning, and production support, using strong problem-solving habits and innovative ways to resolve issues while keeping commitments predictable.
+
+**Indian Eagle Pvt. Ltd. | Big Data Engineer** _ May 2016 - Jul 2020_
+- Built Spark Streaming and Kafka pipelines on Hadoop/Hive for customer and transaction data, supporting 10M+ travel-search events and high-volume business intelligence use cases.
+- Designed NoSQL and Hive data models for raw-to-curated analytical processes, enabling faster exploration of customer behavior, pricing patterns, and booking signals.
+- Automated deployments with Jenkins, Git, Bash, and Terraform exposure, applying software engineering practices that improved release consistency across development and production environments.
+- Resolved production incidents in ETL and streaming systems by tracing data movement, schema drift, and transformation defects, improving long-term system reliability for downstream users.
+
+---
 ## SKILLS / TECH STACK
 
 **Languages & Programming:** Python, SQL, PySpark, Spark SQL, Scala, Java, R, Bash, Shell Scripting, PowerShell, TypeScript, JavaScript, Go, C#, YAML, JSON, XML, HCL, Terraform, T-SQL, PL/SQL, PostgreSQL PL/pgSQL, GraphQL, REST API development, Object-Oriented Programming, Functional Programming, Data Structures, Algorithms, API Integration, Automation Scripting
@@ -78,51 +122,6 @@ redirect_from:
 **Architecture & Delivery:** Cloud Data Engineering, Big Data Engineering, ETL Development, ELT Development, Data Platform Engineering, Data Warehouse Modernization, Data Lake Modernization, Lakehouse Implementation, Cloud Migration, On-Prem to Cloud Migration, SQL Server to Databricks Migration, Oracle to Snowflake Migration, Domo to Redshift Migration, Legacy ETL Modernization, Data Mart Modernization, Source-to-Target Mapping, Data Product Development, Reusable Frameworks, Production Support, Incident Resolution, Agile Delivery, Scrum, Kanban, Technical Documentation, Runbooks, Stakeholder Collaboration
 
 **Data Modeling for Lakehouse, Warehouse & Data Marts:** Dimensional Modeling, Star Schema, Snowflake Schema, Fact Tables, Dimension Tables, Slowly Changing Dimensions, SCD Type 1, SCD Type 2, SCD Type 3, Conformed Dimensions, Degenerate Dimensions, Junk Dimensions, Bridge Tables, Snapshot Facts, Transaction Facts, Accumulating Snapshot Facts, Aggregate Tables, Summary Tables, Semantic Models, Metrics Layer, Data Marts, Enterprise Data Warehouse Modeling, Lakehouse Data Modeling, Medallion Architecture, Bronze-Silver-Gold Layers, Data Vault 2.0, Hub-Link-Satellite Modeling, Anchor Modeling, Common Data Model, Canonical Data Model, Domain Data Products, Data Mesh Modeling, Data Fabric Patterns, Source-to-Target Mapping, Business Glossary Mapping, Data Lineage Mapping, Metadata-Driven Modeling, Entity Relationship Modeling, Conceptual Data Modeling, Logical Data Modeling, Physical Data Modeling, OLTP Modeling, OLAP Modeling, Normalization, Denormalization, Partitioning Strategy, Clustering Strategy, Z-Ordering, Liquid Clustering, Indexing Strategy, Surrogate Keys, Natural Keys, Primary Keys, Foreign Keys, Referential Integrity, CDC-Based Modeling, Incremental Model Design, dbt Models, dbt Snapshots, dbt Seeds, dbt Tests, dbt Semantic Layer, Delta Lake Tables, Apache Iceberg Tables, Apache Hudi Tables, Materialized Views, Dynamic Tables, External Tables, View Design, Gold Layer Data Products, BI-Ready Data Models, Finance Data Marts, Sales Data Marts, Customer 360 Models, Supply Chain Models, Claims Data Models, Risk Data Models, Forecasting Models, P&L Models, Budget vs Actual Models
-
----
-
-## PROFESSIONAL EXPERIENCE
-**Rewards Network | Data Migration Consultant**   _Jan 2026 - Jun 2026_ (Contract)
-- Operationalized complex data solutions on AWS Redshift, dbt, Domo, and SQL Server for a Domo-to-Redshift modernization covering 150+ datasets, preserving reporting parity with zero disruption for business intelligence/insights users.
-- Designed data movement and transformation code with Redshift distribution/sort keys, dbt models, and data cleansing rules, recommending data cleansing/quality solutions that reduced manual reconciliation effort by 40%.
-- Analyzed complex sources across Domo cards, SQL Server marts, and PDP security rules to determine value and use, then recommended which datasets to retain, refactor, certify, or retire for cleaner analytical processes.
-- Coordinated with business partners, analysts, and data owners through migration trackers, defect logs, and release notes, correcting incidents in small batches and documenting tradeoffs before production cutover.
-
-**Raining Virtue Inc | BI Consultant**  _Sep 2025 - Dec 2025_ (Contract)
-- Assessed Oracle EDW, Databricks Lakehouse, and Power BI reporting assets across 200+ datasets, mapping metadata completeness, lineage coverage, query redundancy, and data quality gaps for analytics landscape transformation.
-- Built BI assessment scorecards and end-user documentation that translated stories found in data into prioritized remediation steps, helping cross functional teams plan domain expertise, reliable information delivery, and adjacent-system cleanup.
-
-
-**First Fidelity Bank | Senior Data Analytics Engineer** | _Feb 2024 - Jul 2025_(Full Time)
-- Built Databricks Delta Lake pipelines with PySpark, Spark SQL, dbt, and Azure Data Factory to process 10M+ financial transactions, improving downstream analytical availability while supporting AI/ML feature preparation and BI insights.
-- Migrated SQL Server and SSIS workloads into Databricks with tested data movement, transformation code, and reusable ETL patterns, cutting manual development and QA effort by 40% and maintaining 99.9% scheduled pipeline uptime.
-- Designed complex data solutions across bronze, silver, and gold layers with Unity Catalog, data governance, data security, and data quality controls, giving Finance and Risk teams certified datasets with clear ownership and lineage.
-- Guided team members through code reviews, incident analysis, Terraform-aligned deployment practices, and tracked team efforts, creating a safe environment for others to learn and grow as engineers while releasing complete solutions in small batches.
-
-**Chesapeake Energy | Data Engineer** | _Sep 2023 - Dec 2023_
-- Built GCP data pipelines with BigQuery, Cloud Composer, Cloud Storage, Pub/Sub, Dataflow, and Cloud Functions to process 15M+ operational records for near real-time telemetry and business intelligence dashboards.
-- Tested data components, transformation code, and complex source mappings from field systems, correcting defects in batch and streaming jobs before production reporting windows.
-- Tuned BigQuery models and Cloud Composer DAGs for predictable delivery, balancing latency, compute cost, and data quality so analytics teams could explore and utilize trusted operational data.
-- Documented system analysis findings, incident resolution steps, and adjacent-system dependencies for end users and technical teams, improving written communication and handoff quality.
-
-**University of Oklahoma | Graduate Assistant, Data Engineering** | _Aug 2022 - Aug 2023_
-- Developed Python, SQL, and PySpark workflows for academic data engineering projects, applying STEM-based analysis to clean, transform, and validate structured datasets used in teaching and research.
-- Built reproducible ETL labs and dashboards covering data pipelines, data quality, cloud platforms, and modern software engineering practices, helping 100+ students understand analytical processes.
-- Supported faculty and students with debugging, assessment, and resolution of complex data/system issues, strengthening verbal communication, documentation, and end-user education.
-
-**System Info Solutions | Data Engineer** _Aug 2020 - Mar 2022_
-- Built Spark, Hive, Sqoop, and Kafka pipelines on Hadoop/HDFS to ingest large-scale datasets from relational databases into analytical stores, improving batch processing reliability for reporting teams.
-- Created data cleansing and quality validation routines in PySpark and SQL, reducing recurring source-to-target defects by 35% across daily ETL jobs.
-- Optimized Spark jobs through partitioning, caching, broadcast joins, and resource utilization tuning, lowering runtime for high-volume workloads by 45%.
-- Partnered with technical teams and business partners on source analysis, release planning, and production support, using strong problem-solving habits and innovative ways to resolve issues while keeping commitments predictable.
-
-**Indian Eagle Pvt. Ltd. | Big Data Engineer** _ May 2016 - Jul 2020_
-- Built Spark Streaming and Kafka pipelines on Hadoop/Hive for customer and transaction data, supporting 10M+ travel-search events and high-volume business intelligence use cases.
-- Designed NoSQL and Hive data models for raw-to-curated analytical processes, enabling faster exploration of customer behavior, pricing patterns, and booking signals.
-- Automated deployments with Jenkins, Git, Bash, and Terraform exposure, applying software engineering practices that improved release consistency across development and production environments.
-- Resolved production incidents in ETL and streaming systems by tracing data movement, schema drift, and transformation defects, improving long-term system reliability for downstream users.
-
-
 
 ---
 
